@@ -26,7 +26,7 @@ void carRental() {
 
     string name;
     string faydaID;
-
+    string gender;
     const int pricePerHour = 800;
     const int lateFeePerHour = 300;
 
